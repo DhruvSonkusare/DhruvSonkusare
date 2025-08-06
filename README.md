@@ -30,13 +30,13 @@ These projects aim to solve real-world problems such as medical predictions, aut
 ---
 
 ## Tech Stack
-- **Python**: Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow
-- **Java**: Spring Boot, Hibernate, MVC Architecture
-- **Frontend**: HTML, CSS, JavaScript, JQuery, AngularJS
-- **Database**: SQL (Derby)
-- **Tools & IDEs**: Jupyter Notebook, VS Code, NetBeans
-- **OS**: Windows, Ubuntu (Linux)
-- **Version Control**: Git & GitHub
+- **🐍 Python**: Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow
+- **☕ Java**: Spring Boot, Hibernate, MVC Architecture
+- **🌐 Frontend**: HTML, CSS, JavaScript, JQuery, AngularJS
+- **🗄️ Database**: SQL (Derby)
+- **🛠️ Tools & IDEs**: Jupyter Notebook, VS Code, NetBeans
+- **💻 OS**: Windows, Ubuntu (Linux)
+- **🔧 Version Control**: Git & GitHub
 
 ---
 

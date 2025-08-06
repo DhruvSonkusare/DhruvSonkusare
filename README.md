@@ -1,5 +1,8 @@
-# Project Title 🚀
-A brief one-liner that explains your project in a sentence.
+# Dhruv's Data Science & Software Engineering Projects 🚀
+
+This repository showcases multiple Machine Learning and Software Development projects including real-time Face Detection, Heart Disease Prediction, Cancer Severity Estimation, and backend API development using Java Spring Boot. The projects reflect practical applications of data-driven problem solving.
+
+---
 
 ## Table of Contents
 - [About](#about)
@@ -12,28 +15,42 @@ A brief one-liner that explains your project in a sentence.
 - [License](#license)
 - [Contact](#contact)
 
-## About 📝
-Describe what your project does and what problem it solves.  
-For example:  
-This project is a Machine Learning application that predicts heart disease based on patient data using classification algorithms. It includes data preprocessing, model training, evaluation, and visualization.
+---
 
-## Tech Stack 🛠️
-- Python (Pandas, NumPy, Scikit-learn, OpenCV)
-- Java (Spring Boot, Hibernate)
-- HTML, CSS, JavaScript, AngularJS
-- SQL (Derby)
-- Jupyter Notebook, VS Code, NetBeans
-
-## Features ✨
-- Real-time Face Detection using OpenCV
-- Face Recognition with Haar Cascades & LBPH
-- Heart Disease Prediction using ML models
-- Cancer Severity & Cost Prediction
-- Wine Clustering (KMeans, DBSCAN, Hierarchical)
-- Backend API Development with Spring Boot
+## About
+This repository contains multiple projects demonstrating proficiency in:
+- Machine Learning (classification, regression, clustering)
+- Computer Vision (Face Detection & Recognition)
+- Backend API Development (Spring Boot, Hibernate)
 - Data Cleaning, Visualization & Reporting
 
-## Installation ⚙️
-Clone the repository:
+These projects aim to solve real-world problems such as medical predictions, automation, and real-time recognition systems. The repository serves as a comprehensive portfolio of my applied Machine Learning and Software Engineering skills.
+
+---
+
+## Tech Stack
+- **Python**: Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow
+- **Java**: Spring Boot, Hibernate, MVC Architecture
+- **Frontend**: HTML, CSS, JavaScript, JQuery, AngularJS
+- **Database**: SQL (Derby)
+- **Tools & IDEs**: Jupyter Notebook, VS Code, NetBeans
+- **OS**: Windows, Ubuntu (Linux)
+- **Version Control**: Git & GitHub
+
+---
+
+## Features
+- Real-time Face Detection using Haar Cascades & OpenCV.
+- Face Recognition system with grayscale image training and confidence threshold tuning.
+- Heart Disease classification using machine learning models.
+- Cancer severity, treatment cost, and survival prediction.
+- Wine Clustering using KMeans, DBSCAN, and Hierarchical Clustering.
+- Backend API Development with Java Spring Boot and REST APIs.
+- Data cleaning, manipulation, and visualization pipelines.
+
+---
+
+## Installation
+1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/DhruvSonkusare/YourRepositoryName.git

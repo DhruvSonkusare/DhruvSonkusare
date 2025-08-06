@@ -18,7 +18,7 @@ Welcome to my project repository! This showcases Machine Learning, Computer Visi
 
 ---
 
-## 📖 About
+##  About
 This repository contains projects demonstrating skills in:
 - 🧠 Machine Learning (classification, regression, clustering)
 - 👁️ Computer Vision (Face Detection & Recognition)

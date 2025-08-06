@@ -41,13 +41,13 @@ These projects aim to solve real-world problems such as medical predictions, aut
 ---
 
 ## Features
-- Real-time Face Detection using Haar Cascades & OpenCV.
-- Face Recognition system with grayscale image training and confidence threshold tuning.
-- Heart Disease classification using machine learning models.
-- Cancer severity, treatment cost, and survival prediction.
-- Wine Clustering using KMeans, DBSCAN, and Hierarchical Clustering.
-- Backend API Development with Java Spring Boot and REST APIs.
-- Data cleaning, manipulation, and visualization pipelines.
+- 🧑‍💻 Real-time Face Detection using Haar Cascades & OpenCV.
+- 🧑‍🦰 Face Recognition system with grayscale image training.
+- 🫀 Heart Disease Classification using ML models.
+- 🧬 Cancer Severity & Cost Prediction.
+- 🍷 Wine Clustering using KMeans, DBSCAN, Hierarchical.
+- 🔗 Backend API Development with Java Spring Boot.
+- 📊 Data Visualization & Reporting Pipelines
 
 ---
 

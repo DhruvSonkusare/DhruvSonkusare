@@ -10,7 +10,7 @@
 ```yaml
 Name: Dhruv Sonkusare
 From: Nagpur, India 🇨🇮
-Role: Software Developer | ML Enthusiast | Backend Engineer
+Role: Software Developer | ML Enthusiast | Backend Engineer | Data Scientist
 Currently: Learning Deep Learning & Contributing to Open Source
 Goal: Build Scalable, Smart & Clean Software Systems
 ```

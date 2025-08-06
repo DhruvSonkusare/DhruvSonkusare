@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#00C9FF">Dhruv Sonkusare</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A7%AC;Back-End+Engineer+%F0%9F%A7%A0;Problem+Solver+%E2%9C%94%EF%B8%8F;Let%27s+Build+Something+Amazing..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A7%AC;Back-End+Engineer+%F0%9F%A7%A0;Problem+Solver+%E2%9C%94%EF%B8%8F;Let%27s+Build+Something+Amazing..." alt="Typing SVG" />
 </p>
 
 ---

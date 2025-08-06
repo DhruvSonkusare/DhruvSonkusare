@@ -5,15 +5,16 @@ Welcome to my project repository! This showcases Machine Learning, Computer Visi
 ---
 
 ## 📑 Table of Contents
-- [📖 About](#about)
-- [🛠️ Tech Stack](#tech-stack)
-- [✨ Features](#features)
-- [⚙️ Installation](#installation)
-- [▶️ Usage](#usage)
-- [📂 Project Structure](#project-structure)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [📬 Contact](#contact)
+## Table of Contents
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 

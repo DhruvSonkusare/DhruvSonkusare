@@ -1,6 +1,7 @@
-# Dhruv's Data Science & Software Engineering Projects 🚀
+# 🚀 Dhruv's Data Science & Software Engineering Projects
 
-This repository showcases multiple Machine Learning and Software Development projects including real-time Face Detection, Heart Disease Prediction, Cancer Severity Estimation, and backend API development using Java Spring Boot. The projects reflect practical applications of data-driven problem solving.
+Welcome to my project repository! This showcases Machine Learning, Computer Vision, and Backend Development projects that solve real-world problems with data-driven solutions. 💻🔍📊
+
 
 ---
 

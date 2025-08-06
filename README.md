@@ -1,12 +1,20 @@
-# 🚀 Dhruv's Data Science & Software Engineering Projects
+<h1 align="center">🚀 Dhruv's Data Science & Software Engineering Portfolio 💻</h1>
 
-Welcome to my project repository! This showcases Machine Learning, Computer Vision, and Backend Development projects that solve real-world problems with data-driven solutions. 💻🔍📊
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ML-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-SpringBoot-green?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=mysql" />
+</p>
 
 ---
 
-## 📑Table of Contents
-- [📖 About](#about)
+## 📖 About
+Welcome to my personal project showcase where I solve real-world problems using Machine Learning, Computer Vision, and Backend Development. From **predictive models in healthcare** to **real-time face recognition systems**, this repository reflects my journey of building impactful applications.
+
+---
+
+## 📋 Table of Contents
+- [🚀 About](#about)
 - [🛠️ Tech Stack](#tech-stack)
 - [✨ Features](#features)
 - [⚙️ Installation](#installation)
@@ -18,40 +26,29 @@ Welcome to my project repository! This showcases Machine Learning, Computer Visi
 
 ---
 
-##  About
-This repository contains projects demonstrating skills in:
-- 🧠 Machine Learning (classification, regression, clustering)
-- 👁️ Computer Vision (Face Detection & Recognition)
-- 🖥️ Backend API Development (Spring Boot, Hibernate)
-- 🧹 Data Cleaning, 📊 Visualization & Automation
-
-These projects aim to solve real-world problems such as medical predictions, automation, and real-time recognition systems. The repository serves as a comprehensive portfolio of my applied Machine Learning and Software Engineering skills.
-
----
-
-## Tech Stack
-- **🐍 Python**: Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow
-- **☕ Java**: Spring Boot, Hibernate, MVC Architecture
-- **🌐 Frontend**: HTML, CSS, JavaScript, JQuery, AngularJS
-- **🗄️ Database**: SQL (Derby)
-- **🛠️ Tools & IDEs**: Jupyter Notebook, VS Code, NetBeans
-- **💻 OS**: Windows, Ubuntu (Linux)
-- **🔧 Version Control**: Git & GitHub
+## 🛠️ Tech Stack
+| Domain           | Tools & Technologies                                                              |
+|------------------|----------------------------------------------------------------------------------|
+| **Languages**     | Python 🐍, Java ☕, SQL 💾                                                         |
+| **Libraries**     | Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow                                   |
+| **Backend**       | Spring Boot, Hibernate, REST APIs                                                 |
+| **Frontend**      | HTML, CSS, JavaScript, JQuery, AngularJS                                          |
+| **Databases**     | Derby SQL                                                                         |
+| **Tools & IDEs**  | Jupyter Notebook, VS Code, NetBeans                                               |
+| **Version Control**| Git, GitHub 🐙                                                                  |
 
 ---
 
-## Features
-- 🧑‍💻 Real-time Face Detection using Haar Cascades & OpenCV.
-- 🧑‍🦰 Face Recognition system with grayscale image training.
-- 🫀 Heart Disease Classification using ML models.
-- 🧬 Cancer Severity & Cost Prediction.
-- 🍷 Wine Clustering using KMeans, DBSCAN, Hierarchical.
-- 🔗 Backend API Development with Java Spring Boot.
-- 📊 Data Visualization & Reporting Pipelines
+## ✨ Features
+- 🧑‍💻 **Real-time Face Detection & Recognition**
+- 🩺 **Heart Disease & Cancer Prediction Systems**
+- 🍷 **Wine Clustering using ML Algorithms**
+- 🔗 **Spring Boot Backend API Integration**
+- 📊 **Data Cleaning, Visualization, and Reporting Pipelines**
 
 ---
 
-## Installation
-1. Clone the repository:
+## ⚙️ Installation
+1. **Clone this repository**
 ```bash
-git clone https://github.com/DhruvSonkusare/YourRepositoryName.git
+git clone https://github.com/DhruvSonkusare/YourRepository.git

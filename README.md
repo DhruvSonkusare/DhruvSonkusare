@@ -32,8 +32,8 @@ Goal: Build Scalable, Smart & Clean Software Systems
 | Project | Tech Used | Highlights |
 |--------|-----------|------------|
 | **Face Recognition** | Python, OpenCV | Real-time system using Haar Cascades, LBPH |
-| **Heart Disease Classification** | Python, Sklearn | Classified patients using logistic regression |
-| **Cancer Severity Prediction** | Python, Pandas | Predicted cost, severity, and survival |
+| **Heart Disease Classification** | Python, Pandas, Sklearn | Classified patients using logistic regression |
+| **Cancer Severity Prediction** | Python, Pandas, SKlearn | Predicted cost, severity, and survival |
 | **Wine Clustering** | Python, Sklearn | Applied DBSCAN, KMeans on unlabelled data |
 
 > ✨ _All my projects aim to blend code with intelligence!_

@@ -23,7 +23,7 @@ Goal: Build Scalable, Smart & Clean Software Systems
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js,react,php,mysql,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---

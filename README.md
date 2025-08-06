@@ -5,8 +5,8 @@ Welcome to my project repository! This showcases Machine Learning, Computer Visi
 
 ---
 
-## Table of Contents
-- [About](#about)
+## 📑Table of Contents
+- [📖About](#about)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)

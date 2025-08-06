@@ -18,12 +18,12 @@ Welcome to my project repository! This showcases Machine Learning, Computer Visi
 
 ---
 
-## About
-This repository contains multiple projects demonstrating proficiency in:
-- Machine Learning (classification, regression, clustering)
-- Computer Vision (Face Detection & Recognition)
-- Backend API Development (Spring Boot, Hibernate)
-- Data Cleaning, Visualization & Reporting
+## 📖 About
+This repository contains projects demonstrating skills in:
+- 🧠 Machine Learning (classification, regression, clustering)
+- 👁️ Computer Vision (Face Detection & Recognition)
+- 🖥️ Backend API Development (Spring Boot, Hibernate)
+- 🧹 Data Cleaning, 📊 Visualization & Automation
 
 These projects aim to solve real-world problems such as medical predictions, automation, and real-time recognition systems. The repository serves as a comprehensive portfolio of my applied Machine Learning and Software Engineering skills.
 

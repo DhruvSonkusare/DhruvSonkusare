@@ -40,17 +40,7 @@ Goal: Build Scalable, Smart & Clean Software Systems
 
 ---
 
-## 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvSonkusare&show_icons=true&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhruvSonkusare&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSonkusare&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 🌍 Connect with Me
 <p align="center">

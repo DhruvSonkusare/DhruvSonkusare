@@ -58,6 +58,7 @@ Goal: Build Scalable, Smart & Clean Software Systems
 ---
 
 ## 🌾 Certifications
+- 🎓 Machine Learning Plan - AWS
 - 🎓 Machine Learning in Python – KP Solutions
 - 🌐 Generative AI Explained – NVIDIA
 - 💡 Full Stack Dev in Java – KP Solutions
